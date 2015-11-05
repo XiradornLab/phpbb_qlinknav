@@ -16,7 +16,7 @@ Extensione per phpBB 3.1 per mostrare gli elementi quick link in una comoda navb
 - PHP 5.3.3 or higher
 
 ## Installazione
-1. [Scarica l'ultima release](link) e estrai il contenuto.
+1. [Scarica l'ultima release](https://github.com/XiradornLab/qlinknav) e estrai il contenuto.
 2. Copia l'intero contenuto nella cartella `/ext/xiradorn/qlinknav/`.
 3. Naviga nel PDA e recati in `Personalizzazioni -> Gestione estensioni`.
 4. Trova `Top Ten Topics` in "Estensioni Disabilitate" e clicca su `Abilita`.
